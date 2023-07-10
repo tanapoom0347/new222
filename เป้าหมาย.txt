@@ -1,0 +1,39 @@
+ราคา
+---------------
+com7 28
+scc 325
+advanc 218
+kbank 132
+cpall 65
+bdms 28
+true 70
+--------
+aapl 7
+tsla 2.3
+nvda 7.7
+---------
+scbnexta 5
+b-innotech 26
+asp-s&p500 48
+---------
+gld 0.1 6770
+--------------
+เป้าหมาย
+///
+1.com7 1,000
+2.scc 1,000
+3.advanc 1,000
+4.kbank 1,000
+5.cpall 1,000
+6.bdms 1,000
+7.true 1,000
+///
+1.aapl 1,000
+2.tsla 1,000
+3.nvda 1,000
+///
+1.scbnaxta 1,200
+2.b-innotech 1,000
+3.asp-s&p500 1,000
+///
+1.gld 1,000
