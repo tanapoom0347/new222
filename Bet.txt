@@ -7,7 +7,7 @@ Total = lost 2259 B (2159+100) Krungthai
 ฺBet2159->2661=+23% +502
 Mark = 2661.0 B Krungthai -->
 
-//Mark 2661.0 B
+<!-- //Mark 2661.0 B
 ///Road to Asian Games Southeast-Asia 2022 (12-16 July)
 ///12 July lost 200
 1.Malaysia 50
@@ -30,7 +30,7 @@ Mark = 2661.0 B Krungthai -->
 1.Thailand 100
 2.Philliphine 100
 Total = lost 1,000 B (850+150) Krungthai
-Mark = 0 B
+Mark = 3,661.0 B Krungtai -->
 
 //Test-D//
 //หนักจริง-หนักจัง-หนักจัด//
