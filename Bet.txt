@@ -20,7 +20,7 @@ Mark = 2661.0 B Krungthai -->
 3.Thailand 50
 //14 July lost 150+50 Krungthai
 1.Thailand 50
-2.Laos 50
+2.Laos 50 |-45
 3.Philliphine 50
 //15 July lost 150+50 Krungthai
 1.Philliphine 50
@@ -30,13 +30,37 @@ Mark = 2661.0 B Krungthai -->
 1.Thailand 100
 2.Philliphine 100
 Total = lost 1,000 B (850+150) Krungthai
-Mark = 3,661.0 B Krungtai -->
+Mark = 3616.0 B Krungtai -->
 
 //Test-D//
 //หนักจริง-หนักจัง-หนักจัด//
-//Mark 0.00B
+//Mark 3616.0 B
 ///Riyadh Masters 2023 (17-30 July) (34+56+18)= (108 Matches x50B) ->Total Lost = 5,400 B
-///Play-Ins (Group A 15 Matches + Group B 15 Matches + 4 Decider Matches) = 34 Matches
+///Play-Ins (Group A 15 Matches + Group B 15 Matches + 4 Decider Matches) = 34 Matches = 1500+200
+//19 July lost 1200
+Group A        Group B
+[]Liquid       []OG
+[]Aster        []BC
+[]Xctn         []XG
+[]Liquid       []BC
+[]VP           []9Pandas
+[]Aster        []XG
+[]Liquid       []Quest
+[]Aster        []9P
+[]TSM          []XG
+[]Liquid       []BC
+[]Entity       []Secret
+[]XctN         []Quest
+//20 July lost 500
+Group A        Group B
+[]Liquid       []BC
+[]VP           []9P
+[]Entity       []XG
+Decider
+[]A3vsB6
+[]A4vsB5
+[]B3vsA6
+[]B4vsA5
 ///Group-Stage (Group A 28 Matches + Group B 28 Matches) = 56 Matches
 ///Playoffs (Upper&Lower Bracket 18 Matches) = 18 Matches
 
