@@ -39,18 +39,18 @@ Mark = 3616.0 B Krungtai -->
 ///Play-Ins (Group A 15 Matches + Group B 15 Matches + 4 Decider Matches) = 34 Matches = 1500+200
 //19 July lost 1200
 Group A        Group B
-[]Liquid       []OG
-[]Aster        []BC
-[]Xctn         []XG
-[]Liquid       []BC
-[]VP           []9Pandas
-[]Aster        []XG
-[]Liquid       []Quest
-[]Aster        []9P
-[]TSM          []XG
-[]Liquid       []BC
-[]Entity       []Secret
-[]XctN         []Quest
+[/]Liquid       [/]OG
+[/]Aster        [/]BC
+[/]Xctn         [/]XG
+[/]Liquid       [/]BC
+[/]VP           [/]9Pandas
+[/]Aster        [/]XG
+[/]Liquid       [/]Quest
+[/]Aster        [/]9P
+[/]TSM          [/]XG
+[/]Liquid       [/]BC
+[/]Entity       [/]Secret
+[/]XctN         [/]Quest
 //20 July lost 500
 Group A        Group B
 []Liquid       []BC
